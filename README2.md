@@ -66,3 +66,6 @@ jiff_instance.wait_for([1, 2, 3], function () {
 ### 参考文献
 
 1. [sss(Shamir's Secret Sharing)を Golang で実装する](https://tech.ginco.io/post/shamir-ss/)
+2. [JIFF Docs](https://multiparty.org/jiff/docs/jsdoc/)
+3. [(k,n)しきい値法とシャミアの秘密分散法](https://manabitimes.jp/math/1181)
+4. [秘密計算手法その２（秘密分散法）](https://qiita.com/SenK/items/33ce4cbf2fee23df95ec)
